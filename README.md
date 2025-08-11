@@ -12,12 +12,14 @@ Document and report cybersecurity incidents professionally
 
 Recommend mitigation strategies
 
+
 🛠 Tools & Technologies Used
 Wireshark – Network traffic capture and analysis
 
 TCP/IP Protocol Analysis – Three-way handshake investigation
 
 Markdown Documentation – Professional report formatting
+
 
 📂 Contents
 TCP-SYN-Flood-Incident-Report.md – Full incident report including:
@@ -30,6 +32,7 @@ Potential consequences
 
 Recommended security measures
 
+
 🚨 Attack Summary
 Type of Attack: TCP SYN Flood (Denial-of-Service)
 Impact: Server resource exhaustion leading to downtime and degraded performance
@@ -41,6 +44,7 @@ Connection queue overload
 
 Legitimate users unable to connect to the website
 
+
 🔍 Skills Demonstrated
 Cybersecurity incident documentation
 
@@ -50,12 +54,14 @@ Understanding of Denial-of-Service (DoS) attacks
 
 Communication of technical findings for non-technical audiences
 
+
 📈 Key Takeaways
 Even small bursts of SYN floods can cause noticeable service disruption.
 
 Monitoring tools like Wireshark are essential for early detection.
 
 Preventive configurations like SYN cookies and firewall rules greatly reduce risk.
+
 
 📄 License
 This project is part of my cybersecurity learning portfolio.
