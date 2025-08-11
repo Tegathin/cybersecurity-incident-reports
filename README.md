@@ -1,6 +1,8 @@
-TCP SYN Flood Attack – Cybersecurity Incident Report
+# TCP SYN Flood Attack – Cybersecurity Incident Report
 
-📌 Overview
+---
+
+# 📌 Overview
 This repository contains my cybersecurity incident analysis of a simulated TCP SYN Flood attack, detected and analyzed using Wireshark.
 The project demonstrates my ability to:
 
@@ -14,7 +16,7 @@ Recommend mitigation strategies
 
 ---
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 Wireshark – Network traffic capture and analysis
 
 TCP/IP Protocol Analysis – Three-way handshake investigation
@@ -23,7 +25,7 @@ Markdown Documentation – Professional report formatting
 
 ---
 
-📂 Contents
+# 📂 Contents
 TCP-SYN-Flood-Incident-Report.md – Full incident report including:
 
 Attack identification
@@ -36,7 +38,7 @@ Recommended security measures
 
 ---
 
-🚨 Attack Summary
+# 🚨 Attack Summary
 Type of Attack: TCP SYN Flood (Denial-of-Service)
 Impact: Server resource exhaustion leading to downtime and degraded performance
 Symptoms Observed:
@@ -49,7 +51,7 @@ Legitimate users unable to connect to the website
 
 ---
 
-🔍 Skills Demonstrated
+# 🔍 Skills Demonstrated
 Cybersecurity incident documentation
 
 Network forensic analysis
@@ -60,7 +62,7 @@ Communication of technical findings for non-technical audiences
 
 ---
 
-📈 Key Takeaways
+# 📈 Key Takeaways
 Even small bursts of SYN floods can cause noticeable service disruption.
 
 Monitoring tools like Wireshark are essential for early detection.
@@ -69,7 +71,7 @@ Preventive configurations like SYN cookies and firewall rules greatly reduce ris
 
 ---
 
-📄 License
+# 📄 License
 This project is part of my cybersecurity learning portfolio.
 You are free to reference it for educational purposes with proper credit.
 
