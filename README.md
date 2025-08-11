@@ -67,6 +67,7 @@ Monitoring tools like Wireshark are essential for early detection.
 
 Preventive configurations like SYN cookies and firewall rules greatly reduce risk.
 
+---
 
 📄 License
 This project is part of my cybersecurity learning portfolio.
